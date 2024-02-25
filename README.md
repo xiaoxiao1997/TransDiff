@@ -4,7 +4,7 @@
 ## Structure
  The architecture of TransDiff, which is composed of VAE, Diffusion Transformer, and Condition Encoder.
  
-![DiT samples](visuals/Structure.png)
+![DiT samples](visuals/structure.png)
 
 ## Effect
 The segmentation results of different methods on the ISIC dataset.
